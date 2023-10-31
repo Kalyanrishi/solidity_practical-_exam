@@ -1,0 +1,14 @@
+// Write a smart contract for understanding value types in solodity programming language?
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.13;
+
+contract ValueTypes
+{
+    bool public Myboolean_Variable=true;
+    int public MyInteger_variable=-134;
+    uint public MyUint_Variable=243;
+    address public MyPublic_Address=0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    bytes32 public Myhash = 0x4f66336feff61cd61dfdd68287b169314e658956b0585337f31eb0b198567e59;
+
+}

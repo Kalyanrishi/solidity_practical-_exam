@@ -1,0 +1,5 @@
+What is EVM ?
+Ethereum Virtual Machine is a platform that makes creating decentralised applications easier.
+EVM is a global, so you can access projects from anywhere in the world.
+EVM is the part of Ethereum that handels smart contract deployment and execution.
+It is the second-largest cryptocurrency by market capitalization.
